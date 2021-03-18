@@ -5,6 +5,8 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 
 public class Scheduler {
+    DirectedGraph graph;
+
     public static void main(String args[]) throws FileNotFoundException {
 
         // If the arguments are wrong, print and exit.
@@ -26,10 +28,11 @@ public class Scheduler {
      * @throws FileNotFoundException
      */
     private static void readFile(String inputFile) throws FileNotFoundException {
-        // TODO: Implement
         // Creates a new file to read from and scanner to read with.
         File input = new File(inputFile);
         Scanner scanner = new Scanner(input);
+
+        // TODO: Implement
 
         scanner.close();
     }

@@ -1,0 +1,7 @@
+M 12 < R F
+R 9 < N B
+F 2 < Y Z B
+Y 16 < B
+Z 1 < B
+N 3 < B
+B 0

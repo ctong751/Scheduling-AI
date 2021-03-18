@@ -1,0 +1,9 @@
+A 5 < B C Q R
+B 15 < C Q Y
+C 12 < Y Z
+R 31 < M F
+M 16 < F Z
+Q 18 > F
+Y 9 < Z
+F 1 < Z
+Z 28

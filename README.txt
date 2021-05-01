@@ -1,3 +1,5 @@
+In this project, I implement a dynamic scheduling algorithm to calculate the early start, late start, early finish, late finish, and slack values for the nodes in the directed graph, and also identify the critical path.
+
 To compile and run my code, these steps need to be followed.
 First, compile the three java files in the assignment7 package:
 javac assignment7/*.java

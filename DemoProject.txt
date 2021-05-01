@@ -1,0 +1,8 @@
+A 10 < B R Q Z
+B 10 < R Y G
+Q 25 < F Z
+R 5 < G Z
+Y 6 < Z
+G 2 < Z
+F 1 < Z
+Z 12
